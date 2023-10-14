@@ -127,9 +127,27 @@ button:focus-visible {
   
 }
 
-@media screen and (max-width: 600px)  {
+@media screen and (max-width: 800px)  {
   body{
     display: flex;
     flex-direction: column;
     width: fit-content;
+    
   }
+  .roi{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+  }
+  .dork{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+  }
+  .ort{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    height: fit-content;
+  }
+}
