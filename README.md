@@ -12,7 +12,7 @@ Please reach out  for any suggestions , comments or  feedback!
 |----|-----|------|
 |Runster|rolldamon1906@outlook.com|Address1|
 
-[Deployment](https://endearing-narwhal-44eec4.netlify.app)
+[Deployment](https://singular-taiyaki-aa9ec6.netlify.app/)
 
 
 ###Thanks  for  reviewing
