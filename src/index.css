@@ -134,6 +134,12 @@ button:focus-visible {
     width: fit-content;
     
   }
+
+  header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
   .roi{
     display: flex;
     flex-direction: column;
@@ -149,5 +155,16 @@ button:focus-visible {
     flex-direction: column;
     width: 15em;
     height: fit-content;
+  }
+  .cho{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+  }
+  #root{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
   }
 }
