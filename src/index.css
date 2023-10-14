@@ -147,7 +147,7 @@ button:focus-visible {
   .ort{
     display: flex;
     flex-direction: column;
-    width: fit-content;
+    width: 15em;
     height: fit-content;
   }
 }
